@@ -56,7 +56,7 @@ Powered by Gradio for an interactive interface.
 ## ▶️ Run Instructions
 
 1. Clone the repo  
-   `git clone https://github.com/your-username/cat-dog-classifier.git`
+   `git clone (https://github.com/lavishsingh12/PRODIGY_ML_03.git)'
 
 2. Run the app  
    `python main.py`
