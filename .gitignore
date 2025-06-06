@@ -1,0 +1,12 @@
+# Ignore gradio folder
+gradio/
+
+# Ignore temporary VS Code runner files
+*.tempCodeRunnerFile*
+
+# Ignore typical system and IDE files
+__pycache__/
+*.pyc
+.DS_Store
+.env
+tem
