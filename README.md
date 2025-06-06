@@ -67,4 +67,4 @@ Powered by Gradio for an interactive interface.
 
 **Lavish**  
 B.Tech Student | AI-ML Enthusiast  
-GitHub: [@your-username](https://github.com/your-username)
+GitHub: [@lavishsingh12](https://github.com/lavishsingh12)
