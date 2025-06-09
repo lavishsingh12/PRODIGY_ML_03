@@ -65,6 +65,6 @@ Powered by Gradio for an interactive interface.
 
 ## 👨‍💻 Author
 
-**Lavish**  
+**Lavish Singh Rajawat**  
 B.Tech Student | AI-ML Enthusiast  
 GitHub: [@lavishsingh12](https://github.com/lavishsingh12)
